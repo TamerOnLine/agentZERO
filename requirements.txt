@@ -1,1 +1,15 @@
 pytest
+
+langchain
+bs4
+
+langchain-ollama
+
+selenium
+webdriver-manager
+
+selenium-stealth
+
+
+
+
