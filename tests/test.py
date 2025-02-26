@@ -1,7 +1,7 @@
 import os
 
 # Define the scripts directory
-SCRIPTS_DIR = "src"
+SCRIPTS_DIR = "tests"
 
 # Fetch all Python scripts dynamically
 scripts = {

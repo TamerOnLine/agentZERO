@@ -3,12 +3,30 @@ pytest
 langchain
 bs4
 
+langgraph
+
 langchain-ollama
+langchain-community
 
 selenium
 webdriver-manager
 
 selenium-stealth
+
+python-dotenv
+
+google-search-results
+googlesearch-python
+
+transformers
+
+
+
+
+
+
+
+
 
 
 
